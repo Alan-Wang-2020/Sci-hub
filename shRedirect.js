@@ -2,7 +2,7 @@
  *  GLOBAL VAR
  */
 
-var baseURL = "https://whereisscihub.now.sh/go/";
+var baseURL = "https://sci-hub.tw/";
 
 // Firefox always has both chrome and browser objects, Chrome has only chrome
 var browser = browser || chrome
